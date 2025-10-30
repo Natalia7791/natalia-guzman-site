@@ -92,7 +92,7 @@ export default function Page() {
       {/* NAV */}
       <nav className="sticky top-0 z-40 backdrop-blur bg-white/70 border-b">
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-          <a href="#home" className="font-semibold tracking-tight">Lucre · Portfolio</a>
+          <a href="#home" className="font-semibold tracking-tight">Natalia Lucrecia Guzman · Portfolio</a>
           <div className="flex items-center gap-2">
         
 
@@ -235,7 +235,7 @@ export default function Page() {
       </section>
 
       <footer className="border-t py-8 text-center text-sm text-slate-500">
-        <p>© {new Date().getFullYear()} Lucre · Portfolio. Built with Next.js & Tailwind.</p>
+        <p>© {new Date().getFullYear()} Natalia Lucrecia Guzman · Portfolio. Built with Next.js & Tailwind.</p>
       </footer>
 
       <style>{`
